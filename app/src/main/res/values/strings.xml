@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Test for ZiMAD</string>
+    <string name="cat">cat</string>
+    <string name="dog">dog</string>
+    <string name="error_when_selectng_tabs">Error with selecting tab</string>
+
+    <string name="error_receiving_data">Ошибка получения данных</string>
+</resources>
